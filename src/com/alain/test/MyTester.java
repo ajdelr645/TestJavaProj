@@ -6,9 +6,10 @@ public class MyTester {
         System.out.println("Hello World!");
     }
 
-    private void methodOne(String input, String input 2) {
+    private void methodOne(String input, String input2, String input3) {
         System.out.println("This is method one: " + input);
         System.out.println("This is input 2: " + input2);
+        System.out.println("Step 1");
     }
     
     private void methodTwo() {
