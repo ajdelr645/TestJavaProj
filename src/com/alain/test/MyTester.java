@@ -6,8 +6,9 @@ public class MyTester {
         System.out.println("Hello World!");
     }
 
-    private void methodOne(String input) {
+    private void methodOne(String input, String input 2) {
         System.out.println("This is method one: " + input);
+        System.out.println("This is input 2: " + input2);
     }
     
     private void methodTwo() {
