@@ -13,6 +13,10 @@ public class MyTester {
     }
     
     private void methodTwo() {
-        System.out.println("This is method one");
+        System.out.println("This is method two");
+    }
+
+    private void methodThree() {
+        System.out.println("This is method three");
     }
 }
