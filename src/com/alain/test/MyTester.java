@@ -1,5 +1,9 @@
 package com.alain.test;
 
+/*
+Test comment MyTester class in Feature branch.
+This is an additional comment for feature branch.
+ */
 public class MyTester {
 
     public static void main(String[] args) {
