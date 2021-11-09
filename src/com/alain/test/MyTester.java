@@ -19,4 +19,8 @@ public class MyTester {
     private void methodThree() {
         System.out.println("This is method three");
     }
+
+    private void methodFour() {
+        System.out.println("This is method four");
+    }
 }
