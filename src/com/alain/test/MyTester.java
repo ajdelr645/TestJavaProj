@@ -1,7 +1,8 @@
 package com.alain.test;
 
 /*
-Test comment MyTester class in develop branch
+Test comment MyTester class in Develop branch.
+This is an additional comment for feature branch.
  */
 public class MyTester {
 
