@@ -1,7 +1,7 @@
 package com.alain.test;
 
 /*
-Test comment MyTester class in Feature branch.
+Test comment MyTester class in Develop branch.
 This is an additional comment for feature branch.
  */
 public class MyTester {
@@ -15,7 +15,7 @@ public class MyTester {
         System.out.println("This is input 2: " + input2);
         System.out.println("Step 1");
     }
-    
+
     private void methodTwo() {
         System.out.println("This is method two");
     }
